@@ -111,10 +111,6 @@ The program requires no additional configuration and is ready to use immediately
 
 Distributed under the MIT License. See the `LICENSE` file for more information.
 
-## 👥 Authors
-
-- **Your Name** - *Initial development* - [GitHub](https://github.com/yourusername)
-
 ## 🙏 Acknowledgments
 
 - Thanks to everyone who contributed to the project
