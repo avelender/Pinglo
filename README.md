@@ -14,7 +14,7 @@
 
 **Pinglo** is a compact Windows GUI utility designed for monitoring IP address availability using the ping command and logging the results. The program allows you to track multiple IP addresses simultaneously, customize the check interval, and choose the logging mode.
 
-![Pinglo Screenshot](https://via.placeholder.com/800x450.png?text=Pinglo+Screenshot)
+![Pinglo Screenshot](ps.png?text=Pinglo+Screenshot)
 
 ## ✨ Features
 
