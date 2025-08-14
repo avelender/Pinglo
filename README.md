@@ -91,27 +91,6 @@ The CSV file should contain IP addresses in the first column, one address per li
 172.17.15.15
 ```
 
-## 📁 Project Structure
-
-```
-pinglo/
-├── ping_monitor.py   # Main program file
-├── requirements.txt  # Project dependencies
-├── README.md         # Documentation
-└── logs/             # Logs folder (created automatically)
-    ├── ping_log.txt  # Combined log file
-    └── ping_log_*.txt # Separate log files for each IP
-```
-
-## 🔧 Configuration
-
-The program requires no additional configuration and is ready to use immediately after launch.
-
 ## 📄 License
 
 Distributed under the MIT License. See the `LICENSE` file for more information.
-
-## 🙏 Acknowledgments
-
-- Thanks to everyone who contributed to the project
-- Inspired by the need for a simple and effective tool for monitoring network devices
