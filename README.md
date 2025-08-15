@@ -37,21 +37,16 @@
 
 ### Installation
 
-1. Clone the repository:
+Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/pinglo.git
+   git clone https://github.com/avelender/pinglo.git
    cd pinglo
-   ```
-
-2. Install dependencies (if necessary):
-   ```bash
-   pip install -r requirements.txt
    ```
 
 ### Launch
 
 ```bash
-python ping_monitor.py
+python pinglo.py
 ```
 
 ### Executable Version
